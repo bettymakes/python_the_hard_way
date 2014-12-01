@@ -10,7 +10,7 @@ print 'I "said" do not touch this.'
 # ========= STUDY DRILLS =========
 # ================================
 
-#1  Make your script print another line
+#1 Make your script print another line
 print "Adding new line"
 
 #2 Make your script print only one of the lines.
