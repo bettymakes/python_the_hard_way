@@ -17,7 +17,7 @@ print "Now I will count the eggs:"
 # 4%2=[0], 1/4=[0]
 # 3 + 2 + 1 - 5 + [0] - [0] + 6
 # NOTE 1/4 is 0 and not 0.25 because 1 & 4 are whole numbers, not floats
-print 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
+print 3.0 + 2.0 + 1.0 - 5.0 + 4.0 % 2.0 - 1.0 / 4.0 + 6.0
 
 # Prints the string below to terminal
 print "Is it true that 3 + 2 < 5 - 7?"
@@ -57,6 +57,12 @@ print "Is it less or equal?", 5 <= -2
 ## DONE!
 
 #2 Remember in Exercise 0 when you started Python? Start Python this way again and using the math operators, use Python as a calculator.
+## DONE :)
+
 #3 Find something you need to calculate and write a new .py file that does it.
+## See calculator.py file
+
 #4 Notice the math seems "wrong"? There are no fractions, only whole numbers. You need to use a "floating point" number, which is a number with a decimal point, as in 10.5, or 0.89, or even 3.0.
+## Noted.
+
 #5 Rewrite ex3.py to use floating point numbers so it's more accurate. 20.0 is floating point.
