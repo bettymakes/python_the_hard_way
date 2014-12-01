@@ -66,3 +66,5 @@ print "Is it less or equal?", 5 <= -2
 ## Noted.
 
 #5 Rewrite ex3.py to use floating point numbers so it's more accurate. 20.0 is floating point.
+## Only rewrote line 20 because that's the only statement that would be affected by floating points. 
+## Rewrote calculator.py as well :).
