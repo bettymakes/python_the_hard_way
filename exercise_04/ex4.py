@@ -56,6 +56,14 @@ print "We need to put about", average_passengers_per_car, "in each car."
 ### Done
 
 #4 Make sure you know what = is called (equals) and that it's making names for things.
-#5 Remember that _ is an underscore character.
-#6 Try running python from the Terminal as a calculator like you did before and use variable names to do your calculations. Popular variable names are also i, x, and j.
+### Noted :).
 
+#5 Remember that _ is an underscore character.
+### Done. Stored in memory.
+
+#6 Try running python from the Terminal as a calculator like you did before and use variable names to do your calculations. Popular variable names are also i, x, and j.
+### Done. This is what I ran in Terminal:
+### oprah_net_worth = 3000000000.0
+### my_net_worth = 25498.32
+### difference = oprah_net_worth - my_net_worth
+### print difference

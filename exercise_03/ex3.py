@@ -54,17 +54,17 @@ print "Is it less or equal?", 5 <= -2
 # ================================
 
 #1 Above each line, use the # to write a comment to yourself explaining what the line does.
-## DONE!
+### DONE!
 
 #2 Remember in Exercise 0 when you started Python? Start Python this way again and using the math operators, use Python as a calculator.
-## DONE :)
+### DONE :)
 
 #3 Find something you need to calculate and write a new .py file that does it.
-## See calculator.py file
+### See calculator.py file
 
 #4 Notice the math seems "wrong"? There are no fractions, only whole numbers. You need to use a "floating point" number, which is a number with a decimal point, as in 10.5, or 0.89, or even 3.0.
-## Noted.
+### Noted.
 
 #5 Rewrite ex3.py to use floating point numbers so it's more accurate. 20.0 is floating point.
-## Only rewrote line 20 because that's the only statement that would be affected by floating points. 
-## Rewrote calculator.py as well :).
+### Only rewrote line 20 because that's the only statement that would be affected by floating points. 
+### Rewrote calculator.py as well :).
