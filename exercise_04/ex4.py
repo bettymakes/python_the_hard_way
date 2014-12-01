@@ -1,10 +1,25 @@
+# The whole number 100 is assigned to the variable cars
 cars = 100
+
+# The floating point number 4.0 is assigned to the variable space_in_a_car
 space_in_a_car = 4.0
+
+# The whole number 30 is assigned to the variable drivers
 drivers = 30
+
+# The whole number 90 is assigned to the variable passengers
 passengers = 90
+
+# The result of the value 100-30 is assigned to the variable cars_not_driver
 cars_not_driven = cars - drivers
+
+# The value of drivers (30) is assigned to the variable cars_driven
 cars_driven = drivers
+
+# The result of the value 30*4.0 is assigned to the variable carpool_capacity
 carpool_capacity = cars_driven * space_in_a_car
+
+# The result of the value 90/30 is assigned to the variable average_passengers_per_car
 average_passengers_per_car = passengers / cars_driven
 
 print "There are", cars, "cars avaialble."
@@ -38,7 +53,7 @@ print "We need to put about", average_passengers_per_car, "in each car."
 ### Noted.
 
 #3 Write comments above each of the variable assignments.
-###  
+### Done
 
 #4 Make sure you know what = is called (equals) and that it's making names for things.
 #5 Remember that _ is an underscore character.
